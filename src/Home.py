@@ -17,14 +17,7 @@ with st.sidebar.expander("📬 Contact"):
 #Description
 
 
-#AD's Pages
-st.subheader("🚀 AD's Pages")
-st.write("""
-- **AD-Chat**: General Chat on data (PDF, TXT,CSV) with a [vectorstore]
-- **AD-Sheet** (beta): Chat on tabular data (CSV) | for precise information | process the whole file | works with [CSV_Agent]
 
-""")
-st.markdown("---")
 
 
 #Contributing
