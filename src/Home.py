@@ -4,6 +4,17 @@ import streamlit as st
 #Config
 st.set_page_config(layout="wide", page_icon="💬", page_title="Robby | Chat-Bot 🤖")
 
+#Contact
+with st.sidebar.expander("📬 Contact"):
+
+    
+
+    
+
+    
+    st.write("**Created by Sci**")
+
+
 
 
 #Title
@@ -14,11 +25,6 @@ st.markdown(
     unsafe_allow_html=True,)
 
 st.markdown("---")
-
-#Contact
-with st.sidebar.expander("📬 Contact"):
-
-
 
 #Description
 st.markdown(
