@@ -15,6 +15,10 @@ st.markdown(
 
 st.markdown("---")
 
+#Contact
+with st.sidebar.expander("📬 Contact"):
+
+
 
 #Description
 st.markdown(
