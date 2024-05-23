@@ -41,8 +41,8 @@ st.markdown("---")
 #Robby's Pages
 st.subheader("🚀 Robby's Pages")
 st.write("""
-- **Robby-Chat**: General Chat on data (PDF, TXT,CSV) with a [vectorstore]
-- **Robby-Sheet** (beta): Chat on tabular data (CSV) | for precise information | process the whole file | works with [CSV_Agent]
+- **AD-Chat**: General Chat on data (PDF, TXT,CSV) with a [vectorstore]
+- **AD-Sheet** (beta): Chat on tabular data (CSV) | for precise information | process the whole file | works with [CSV_Agent]
 """)
 st.markdown("---")
 
