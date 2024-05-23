@@ -11,13 +11,7 @@ with st.sidebar.expander("📬 Contact"):
 
 
 #Title
-st.markdown(
-    """
-    <h2 style='text-align: center;'>AD, your data-aware assistant 🤖</h1>
-    """,
-    unsafe_allow_html=True,)
 
-st.markdown("---")
 
 
 #Description
