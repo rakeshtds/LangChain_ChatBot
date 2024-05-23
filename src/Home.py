@@ -36,9 +36,3 @@ st.write("""
 """)
 st.markdown("---")
 
-
-#Contributing
-st.markdown("### 🎯 Contributing")
-st.markdown("""
-**Robby is under regular development. Feel free to contribute and help me make it even more data-aware!**
-""", unsafe_allow_html=True)
